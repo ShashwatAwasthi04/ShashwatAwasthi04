@@ -12,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: LinkedIn- Shashwat Awasthi
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love solving aptitude questions, till the time they are solvable(pun intended) 🤣
--->
