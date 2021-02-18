@@ -12,6 +12,13 @@ Here are some ideas to get you started:
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/JS-Javascript-yellowgreen)
+![](https://img.shields.io/badge/-React-yellowgreen)
+![](https://img.shields.io/badge/-JAVA-yellowgreen)
+![](https://img.shields.io/badge/-JSON-yellowgreen)
+![](https://img.shields.io/badge/-PHP-yellowgreen)
+![](https://img.shields.io/badge/-NodeJS-yellowgreen)
+![](https://img.shields.io/badge/-R-yellowgreen)
+
 
 
 ## &#x1f4c8; GitHub Stats
@@ -25,6 +32,9 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/ShashwatAwasthi/TEDWeb">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShashwatAwasthi04&repo=TEDWeb&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/ShashwatAwasthi/Chat_Bot_Client_End">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShashwatAwasthi04&repo=Chat_Bot_Client_End&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
    
 
