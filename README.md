@@ -30,8 +30,8 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShashwatAwasthi04&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Shashwat's's GitHub Stats" />
 </a>
 
-<a href="https://github.com/ShashwatAwasthi/TEDWeb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShashwatAwasthi04&repo=TEDWeb&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/AJAYKR00KJ/Hackmaniacs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AJAYKR00KJ&repo=Hackmaniacs&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/ShashwatAwasthi/Chat_Bot_Client_End">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShashwatAwasthi04&repo=Chat_Bot_Client_End&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
