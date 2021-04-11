@@ -1,6 +1,6 @@
 ### Hi there, I am Shashwat Awasthi 👋
 
-Here are some ideas to get you started:
+About Me-
 
 - 🔭 I’m currently studying as a third year student at NIT Raipur
 - 🌱 I’m currently working on Java, JavaScript, PHP, React and other cool things.
